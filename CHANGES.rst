@@ -17,8 +17,8 @@ The current role maintainer_ is ypid_.
 .. _debops.sysctl master: https://github.com/debops/ansible-sysctl/compare/v0.1.0...master
 
 
-debops-contrib.sysctl v0.1.0 - 2016-09-04
------------------------------------------
+debops.sysctl v0.1.0 - 2016-09-04
+---------------------------------
 
 Added
 ~~~~~
