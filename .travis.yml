@@ -15,5 +15,5 @@ script:
   - 'cd rolespec ; bin/rolespec -r https://github.com/debops/test-suite'
 
 notifications:
-  webhooks:
+  webhooks
     - 'https://galaxy.ansible.com/api/v1/notifications/'
